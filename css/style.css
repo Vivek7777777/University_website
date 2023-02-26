@@ -338,6 +338,12 @@ h3{
     margin: 0 13px;
     cursor: pointer;
     padding: 18px 0;
+    transition: .3s;
+}
+
+.fa:hover
+{
+    color: #3d3d3d;
 }
 
 
